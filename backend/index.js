@@ -1,0 +1,1 @@
+console.log("🚀 Jocode Starter Initialized!");
